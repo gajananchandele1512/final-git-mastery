@@ -2,3 +2,4 @@ Project Start
 Feature: Settings added
 Feature: Profile added
 feature-profile
+Feature: Logout added
